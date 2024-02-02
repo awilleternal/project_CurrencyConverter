@@ -6,7 +6,7 @@ This is a simple currency converter project implemented using HTML, CSS, and Jav
 
 The Currency Converter project allows users to convert amounts from one currency to another. It fetches the latest exchange rates from an external API and provides a user-friendly interface for conversion.
 
-<a href="https://project-currency-converter.vercel.app/">##Check it out !!</a>
+<a href="https://project-currency-converter.vercel.app/">CHECK IT OUT !!</a>
 
 ## Features
 
